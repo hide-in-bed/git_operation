@@ -1,2 +1,2 @@
 # git_operation
-dd
+This place is used to record some questions and operations of git.
